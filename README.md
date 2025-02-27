@@ -2,7 +2,7 @@
 
 ---
 
-### **README for Assignment 2: CDP Support Agent Chatbot**  
+### ** Assignment 2: CDP Support Agent Chatbot**  
 
 ```markdown
 # CDP Support Agent Chatbot
